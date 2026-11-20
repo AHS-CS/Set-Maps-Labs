@@ -1,2 +1,2 @@
 # Set-Maps-Labs
-Labs for Set and Map data structures.
+Labs for Sets data structures.
